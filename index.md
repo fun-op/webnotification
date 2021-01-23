@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<button onclick="notifyMe()">notification</button>
+
 <script>
 var createdby = "cchhhh";
 var timestamp = "1:10pm";
@@ -38,7 +38,7 @@ function notifyMe() {
 }
 </script>
 You can use the [editor on GitHub](https://github.com/fun-op/webnotification/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+<button onclick="notifyMe()">notification</button>
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
