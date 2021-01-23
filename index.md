@@ -15,7 +15,7 @@ function notifyMe() {
   var notification = new Notification("Quiz Created by "+createdby, {
   body: timestamp,
   
-  icon: "https://1.bp.blogspot.com/-3T9rp1i8qJM/YAvNP3RRD-I/AAAAAAAAA2k/QaTH6pTOYPYhwEsRNAHD3QjF5uW0oXmfwCLcBGAsYHQ/s320/favicon-16x16.png" 
+  icon: "https://1.bp.blogspot.com/-1eeixmDHd5E/YAvNKULsJ7I/AAAAAAAAA2Y/W1xGNvkAmPs5_6Oate6luj8VzLRgadxdQCLcBGAsYHQ/s320/android-chrome-512x512.png" 
   });
   notification.onclick = function(event) {
   event.preventDefault(); // prevent the browser from focusing the Notification's tab
