@@ -38,11 +38,11 @@ function notifyMe() {
 }
 </script>
 You can use the [editor on GitHub](https://github.com/fun-op/webnotification/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-<button onclick="notifyMe()">notification</button>
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
+<button onclick="notifyMe()">notification</button>
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
