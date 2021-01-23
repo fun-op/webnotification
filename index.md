@@ -15,11 +15,11 @@ function notifyMe() {
   var notification = new Notification("Quiz Created by "+createdby, {
   body: timestamp,
   
-  icon: "//gotoschool.extramarks.com/uploads/profileimages/avtar5.png" 
+  icon: "https://1.bp.blogspot.com/-3T9rp1i8qJM/YAvNP3RRD-I/AAAAAAAAA2k/QaTH6pTOYPYhwEsRNAHD3QjF5uW0oXmfwCLcBGAsYHQ/s320/favicon-16x16.png" 
   });
   notification.onclick = function(event) {
   event.preventDefault(); // prevent the browser from focusing the Notification's tab
-  window.open('https://gotoschool.extramarks.com');
+  window.open('https://the---anirban.blogspot.com/p/indexhtml.html');
 }
   }
 
